@@ -1,0 +1,9 @@
+@import "normalize-scss/sass/normalize/import-now"; // import normalize-scss
+@import "skeleton-sass-official/skeleton/core/config"; // Skeleton Sass core loader
+
+// import default theme variables
+@import "skeleton-sass-official/skeleton/themes/fresh/vars"; // theme variable overrides
+
+// import default theme styles
+@import "skeleton-sass-official/skeleton/themes/fresh/include_components"; // theme base styles
+@import "skeleton-sass-official/skeleton/themes/fresh/grid"; // theme grid styles

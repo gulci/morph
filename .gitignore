@@ -1,0 +1,15 @@
+*.gem
+.bundle
+.sass-cache
+Gemfile.lock
+
+# testing files
+_site
+_posts
+404.html
+_config.yml
+*.md
+
+
+# OS files
+.DS_Store
