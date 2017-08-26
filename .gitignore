@@ -13,3 +13,6 @@ _config.yml
 
 # OS files
 .DS_Store
+
+# make exception for README.md
+!README.md
