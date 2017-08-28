@@ -21,7 +21,7 @@
   {% else %}
 
     {% if logo.first %}
-      <a href="{{ "/" | relative_url }}"><img src="{{ logo.first.path }}" class="site-logo" class="u-max-full-width" /></a>
+      <a href="{{ "/" | relative_url }}"><img src="{{ logo.first.path | relative_url }}" class="site-logo" class="u-max-full-width" /></a>
       <h1 class="site-header-title">{{site.title}}</h1>
     {% else %}
       <a href="{{ "/" | relative_url }}"><h1 class="site-header-title">{{site.title}}</h1></a>
