@@ -1,6 +1,8 @@
 # morph
 A minimal Jekyll theme tailored for those who have a preference for the more "retro". Inspired by years of living inside the terminal. Uses [Skeleton](http://getskeleton.com/) for quick, easy, and clean layouts.
 
+## [Demo Website](https://gulci.github.io/morph)
+
 ## Install & Run
 
 1. Set up `_config.yml` exactly the way you like it. Here are some important tidbits:
