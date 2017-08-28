@@ -7,12 +7,6 @@ Gemfile.lock
 _site
 _posts
 404.html
-_config.yml
-*.md
-
 
 # OS files
 .DS_Store
-
-# make exception for README.md
-!README.md

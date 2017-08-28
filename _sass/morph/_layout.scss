@@ -1,3 +1,39 @@
 .simple-page {
   padding: 1em;
 }
+
+.site-header {
+  margin: 5% 0px 5% 0px;
+  text-align: center;
+  color: $primary-color;
+}
+
+.site-logo {
+  margin-bottom: 1em;
+  max-width: 25%;
+}
+
+.site-header-title {
+  font-size: 2.8rem;
+  padding-bottom: 0px;
+}
+
+.main-section:before {
+  display: block;
+  content: '';
+  background: $primary-color;
+  height: 1px;
+  margin: 2em 0px;
+}
+
+.site-footer:before {
+  display: block;
+  content: '';
+  background: $primary-color;
+  height: 1px;
+  margin: 2em 0px;
+}
+
+.site-footer {
+  color: $primary-color;
+}

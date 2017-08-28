@@ -1,9 +1,13 @@
 h1, h2, h3, h4, h5, h6 {
-    font-family: $primary-font;
-    color: $primary-color;
+  font-family: $primary-font;
+  color: $primary-color;
 }
 
 a, a:visited {
   color: $primary-color; 
 }
 a:hover, a:focus, a:active { color: $accent-color; }
+
+.page-list {
+  text-transform: lowercase;
+}
