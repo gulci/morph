@@ -3,6 +3,7 @@
 title: Site Title
 email: example@example.not
 name: John Doe
+#baseurl: "/subdirectory" #used if hosting in a subdirectory
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 blogPermalink: "/blog/" # Optional, used by post layout. If absent, "Blog"
                         # link will point to root.
